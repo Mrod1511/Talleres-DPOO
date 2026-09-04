@@ -1,0 +1,32 @@
+{
+	"clientes": [
+		{
+			"tipoCliente": "Natural",
+			"nombre": "Alice"
+		},
+		{
+			"tipoCliente": "CORPORATIVO",
+			"nombreEmpresa": "Apple",
+			"tamanoEmpresa": 3
+		},
+		{
+			"tipoCliente": "Natural",
+			"nombre": "Bob"
+		},
+		{
+			"tipoCliente": "CORPORATIVO",
+			"nombreEmpresa": "Boeing",
+			"tamanoEmpresa": 2
+		}
+	],
+	"tiquetes": [
+		{
+			"codigoRuta": "4558",
+			"fecha": "2024-11-05",
+			"codigoTiquete" : "8769647",
+			"tarifa": 450000,
+			"usado": false,
+			"cliente": "Bob"
+		}
+	]
+}
